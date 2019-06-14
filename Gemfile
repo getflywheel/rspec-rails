@@ -40,7 +40,7 @@ if RUBY_VERSION >= '2.4.0'
   gem 'json', '>= 2.0.2'
 end
 
-gem 'ffi', '~> 1.9.25'
+gem 'ffi', '~> 1.9'
 
 gem 'rake', '~> 12'
 
