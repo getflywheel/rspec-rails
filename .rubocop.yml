@@ -70,3 +70,9 @@ Layout/AlignHash:
 
 Naming/RescuedExceptionsVariableName:
   Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/SafeNavigation:
+  Enabled: false
